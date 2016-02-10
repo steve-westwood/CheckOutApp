@@ -1,0 +1,12 @@
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\bin\Debug\CheckOutApp.ConsoleApp.exe.config
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\bin\Debug\CheckOutApp.ConsoleApp.exe
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\bin\Debug\CheckOutApp.ConsoleApp.pdb
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\bin\Debug\CheckOutApp.Core.dll
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\bin\Debug\CheckOutApp.Core.pdb
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\obj\Debug\CheckOutApp.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\obj\Debug\CheckOutApp.ConsoleApp.exe
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\obj\Debug\CheckOutApp.ConsoleApp.pdb
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\bin\Debug\Castle.Core.dll
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\bin\Debug\Castle.Windsor.dll
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\bin\Debug\Castle.Core.xml
+C:\Work\CheckOutApp\CheckOutApp.ConsoleApp\bin\Debug\Castle.Windsor.xml

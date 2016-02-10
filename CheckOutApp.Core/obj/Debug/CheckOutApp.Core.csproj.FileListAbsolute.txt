@@ -1,0 +1,5 @@
+C:\Work\CheckOutApp\CheckOutApp.Core\bin\Debug\CheckOutApp.Core.dll
+C:\Work\CheckOutApp\CheckOutApp.Core\bin\Debug\CheckOutApp.Core.pdb
+C:\Work\CheckOutApp\CheckOutApp.Core\obj\Debug\CheckOutApp.Core.dll
+C:\Work\CheckOutApp\CheckOutApp.Core\obj\Debug\CheckOutApp.Core.pdb
+C:\Work\CheckOutApp\CheckOutApp.Core\obj\Debug\CheckOutApp.Core.csprojResolveAssemblyReference.cache

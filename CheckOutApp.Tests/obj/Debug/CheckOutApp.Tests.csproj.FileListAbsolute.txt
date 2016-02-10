@@ -1,0 +1,11 @@
+C:\Work\CheckOutApp\CheckOutApp.Tests\bin\Debug\CheckOutApp.Tests.dll
+C:\Work\CheckOutApp\CheckOutApp.Tests\bin\Debug\CheckOutApp.Tests.pdb
+C:\Work\CheckOutApp\CheckOutApp.Tests\bin\Debug\Moq.dll
+C:\Work\CheckOutApp\CheckOutApp.Tests\bin\Debug\nunit.framework.dll
+C:\Work\CheckOutApp\CheckOutApp.Tests\bin\Debug\Moq.xml
+C:\Work\CheckOutApp\CheckOutApp.Tests\bin\Debug\nunit.framework.xml
+C:\Work\CheckOutApp\CheckOutApp.Tests\obj\Debug\CheckOutApp.Tests.dll
+C:\Work\CheckOutApp\CheckOutApp.Tests\obj\Debug\CheckOutApp.Tests.pdb
+C:\Work\CheckOutApp\CheckOutApp.Tests\obj\Debug\CheckOutApp.Tests.csprojResolveAssemblyReference.cache
+C:\Work\CheckOutApp\CheckOutApp.Tests\bin\Debug\CheckOutApp.Core.dll
+C:\Work\CheckOutApp\CheckOutApp.Tests\bin\Debug\CheckOutApp.Core.pdb
